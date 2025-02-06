@@ -1,3 +1,1 @@
-# .gitignore
-node_modules/  # Ignore npm packages
-.env           # Ignore your environment variables (with secrets)
+.env
